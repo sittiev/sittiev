@@ -1,7 +1,7 @@
 
 <hr>
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sittiev&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sittiev&show_icons=true&theme=dark" alt="GitHub Stats">
 </div>
 
 <br>
