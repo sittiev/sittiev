@@ -1,5 +1,3 @@
-[![forthebadge](https://forthebadge.com/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
---- 
 [![.HTML5](https://img.shields.io/badge/--512BD4?logo=html5&logoColor=ffffff)]()
 [![.SASS](https://img.shields.io/badge/--512BD4?logo=sass&logoColor=ffffff)]()
 [![.TAILWINDCSS](https://img.shields.io/badge/--512BD4?logo=tailwindcss&logoColor=ffffff)]()
