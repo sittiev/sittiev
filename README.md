@@ -1,6 +1,10 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" alt="Python">
-  <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Bot">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=api&logoColor=black" alt="APIs">
-</div>
+[![forthebadge](https://forthebadge.com/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+--- 
+[![.HTML5](https://img.shields.io/badge/--512BD4?logo=html5&logoColor=ffffff)]()
+[![.SASS](https://img.shields.io/badge/--512BD4?logo=sass&logoColor=ffffff)]()
+[![.TAILWINDCSS](https://img.shields.io/badge/--512BD4?logo=tailwindcss&logoColor=ffffff)]()
+[![.PYTHON](https://img.shields.io/badge/--512BD4?logo=python&logoColor=ffffff)]()
+[![.POSTGRESQL](https://img.shields.io/badge/--512BD4?logo=postgresql&logoColor=ffffff)]()
+[![.DOCKER](https://img.shields.io/badge/--512BD4?logo=docker&logoColor=ffffff)]()
+[![.LINUX](https://img.shields.io/badge/--512BD4?logo=linux&logoColor=ffffff)]()
+[![.MYSQL](https://img.shields.io/badge/--512BD4?logo=mysql&logoColor=ffffff)]()
