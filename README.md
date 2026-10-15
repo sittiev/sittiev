@@ -2,6 +2,7 @@
 [![.SASS](https://img.shields.io/badge/--0078D4?logo=sass&logoColor=ffffff)]()
 [![.TAILWINDCSS](https://img.shields.io/badge/--0078D4?logo=tailwindcss&logoColor=ffffff)]()
 [![.PYTHON](https://img.shields.io/badge/--0078D4?logo=python&logoColor=ffffff)]()
+[![.RUST](https://img.shields.io/badge/--0078D4?logo=rust&logoColor=ffffff)]()
 [![.POSTGRESQL](https://img.shields.io/badge/--0078D4?logo=postgresql&logoColor=ffffff)]()
 [![.DOCKER](https://img.shields.io/badge/--0078D4?logo=docker&logoColor=ffffff)]()
 [![.LINUX](https://img.shields.io/badge/--0078D4?logo=linux&logoColor=ffffff)]()
